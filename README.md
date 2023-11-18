@@ -11,4 +11,4 @@
 11. Add a commit to the repository using: git commit -m "Created README.md";
 12. Switch to the main branch using: git chekout main;
 13. Merge changes in the development branch with the main branch using: git merge development;
-14. Push the local repository to GitHub with: git push -u origin
+14. Push the local repository to GitHub with: git push -u origin main
